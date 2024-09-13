@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+db.sqlite3
+*.log
+*.pot
+media/
+static/
+.env
+.env.*
+*.env
+.idea/
